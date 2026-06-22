@@ -16,7 +16,7 @@ observability that take systems from impressive demo to dependable production.
 
 - **Paul Vilevac** — [LinkedIn](https://www.linkedin.com/in/pvilevac/) · [@bleenq-paulv](https://github.com/bleenq-paulv)
   — 30+ years in production engineering, cloud architecture, and security (CISSP, CISA, AWS Solutions Architect).
-- **Jacob Vilevac** — [LinkedIn](https://www.linkedin.com/in/jacob-vilevac/) · [@bleenq-jacob](https://github.com/bleenq-jacob)
+- **Jacob Vilevac** — [LinkedIn](https://www.linkedin.com/in/jacob-vilevac/) · [@bleenq-jacobv](https://github.com/bleenq-jacobv)
   — AI/ML engineer.
 
 ## Work with us
